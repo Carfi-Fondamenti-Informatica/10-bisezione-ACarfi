@@ -8,6 +8,7 @@ int main()
 
   do {
       cout << "inserire estremi" <<endl;
+      
       cin >> a;
       fa = a * a * cos(a) + 1;
       cin >> b;
